@@ -1,4 +1,5 @@
-# Hi there! I'm <span style="color: #0078d7; font-size: 32px;">**Anujith S**</span> 👋
+# Hi there! I'm ![Name Badge](https://img.shields.io/badge/Anujith_S-0078d7?style=flat-square&logoColor=white)
+ 👋
 
 **Software Developer @ BIS Safety Software**
 
